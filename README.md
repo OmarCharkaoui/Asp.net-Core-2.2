@@ -1,6 +1,8 @@
 # Asp.net-Core-2.2
 Simple CRUD  ASP.NET CORE 2.2 With Entity Framework Core 2.2
 
+## WebSite : http://omarito-001-site1.atempurl.com/
+
 
 ## My Goals:
 
@@ -8,6 +10,9 @@ Simple CRUD  ASP.NET CORE 2.2 With Entity Framework Core 2.2
 + CRUD Products & Suppliers Tables 
 + Querying Relational Data
 
+## View Diagram Tables
+
++ https://drive.google.com/file/d/1QozU52ZVTNt3v280PqpjP9WidVDIXC2l/view
 
 ## Download Project
 
