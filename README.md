@@ -1,7 +1,7 @@
 # Asp.net-Core-2.2
 Simple CRUD  ASP.NET CORE 2.2 With Entity Framework Core 2.2
 
-## WebSite : http://omarito-001-site1.atempurl.com/
+## WebSite : http://charkaoui-001-site1.etempurl.com/
 
 
 ## My Goals:
